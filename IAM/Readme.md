@@ -158,14 +158,6 @@ AWS generates
 
 ---
 
-### User Created Successfully
-
-> `screenshots/05-success.png`
-
-![Success](screenshots/05-success.png)
-
----
-
 ## Concepts Covered
 
 - IAM
