@@ -128,33 +128,33 @@ AWS generates
 
 ### IAM Dashboard
 
-> `screenshots/01-dashboard.png`
+> `screenshots/dashboard.png`
 
-![IAM Dashboard](screenshots/01-dashboard.png)
+![IAM Dashboard](screenshots/dashboard.png)
 
 ---
 
 ### Create User
 
-> `screenshots/02-create-user.png`
+> `screenshots/create-user.png`
 
-![Create User](screenshots/02-create-user.png)
+![Create User](screenshots/create-user.png)
 
 ---
 
 ### Permission Assignment
 
-> `screenshots/03-permissions.png`
+> `screenshots/permissions.png`
 
-![Permissions](screenshots/03-permissions.png)
+![Permissions](screenshots/permissions.png)
 
 ---
 
 ### Review Configuration
 
-> `screenshots/04-review.png`
+> `screenshots/review.png`
 
-![Review](screenshots/04-review.png)
+![Review](screenshots/review.png)
 
 ---
 
@@ -210,8 +210,7 @@ IAM/
 │   ├── 01-dashboard.png
 │   ├── 02-create-user.png
 │   ├── 03-permissions.png
-│   ├── 04-review.png
-│   └── 05-success.png
+│   └── 04-review.png
 ```
 
 ---
